@@ -1,19 +1,22 @@
-# Full Stack Expense Tracker
+# Expense Tracker
 
-Built using React, FastAPI, SQLite, SQLAlchemy, and JWT Authentication.
+A full-stack Expense Tracker built using React, FastAPI, SQLAlchemy, and JWT Authentication.
 
-## Features
-- User Registration
-- Login & Logout
-- JWT Authentication
-- Add Expenses
-- Edit Expenses
-- Delete Expenses
-- Protected Routes
+## Live Demo
+
+### Frontend
+https://expense-tracker-frontend-liml.onrender.com
+
+### Backend API
+https://expense-tracker-backend-nd8c.onrender.com
+
+### API Documentation (Swagger)
+https://expense-tracker-backend-nd8c.onrender.com/docs
 
 ## Tech Stack
 - React + Vite
 - FastAPI
-- SQLite
 - SQLAlchemy
-- Axios
+- JWT Authentication
+- SQLite
+- Render
