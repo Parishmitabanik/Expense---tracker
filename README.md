@@ -13,10 +13,3 @@ https://expense-tracker-backend-nd8c.onrender.com
 ### API Documentation (Swagger)
 https://expense-tracker-backend-nd8c.onrender.com/docs
 
-## Tech Stack
-- React + Vite
-- FastAPI
-- SQLAlchemy
-- JWT Authentication
-- SQLite
-- Render
